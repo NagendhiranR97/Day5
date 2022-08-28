@@ -1,4 +1,4 @@
-console.log("----------------4.Return all the prime numbers in an array----------------------");
+console.log("----------------4.Return all the prime numbers in an array---------------------");
 
 var prime = function(number){
     for (let i = 0; i < number.length; i++) {
