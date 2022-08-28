@@ -7,3 +7,4 @@ console.log("----------------6.Return median of two sorted arrays of the same si
     console.log(median);
   
 })([1, 12, 15, 26, 38],[2, 13, 17, 30, 45]);
+
