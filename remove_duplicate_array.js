@@ -11,7 +11,7 @@ var arr = ["apple", "mango",
                 unique.push(element);
             }
         });
-        return unique;
+        return unique; 
     }
   
     console.log(removeDuplicates(arr));
