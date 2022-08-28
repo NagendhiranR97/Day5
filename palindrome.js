@@ -7,7 +7,7 @@ let palindromeArray = (arr, start = 0, end = arr.length - 1) => {
       console.log('its palindrome');
     }
     
-    //if start is equal to end
+    //if start is equal to end 
     if(arr[start] === arr[end]){
       //call the same function
       return palindromeArray(arr, start + 1, end - 1);
