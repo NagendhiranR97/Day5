@@ -1,4 +1,4 @@
-console.log("----------------3.Sum of all numbers in an array----------------------");
+console.log("----------------3.Sum of all numbers in an array---------------------");
 
 var sum = function(value){
     let add=0;
